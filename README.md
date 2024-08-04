@@ -2,7 +2,7 @@
 This is a simple Chrome extension for downloading videos from Streamable and Streamin.
 
 ## Purpose
-I wanted an easy way to download videos from Streamable/sStreamin, so I don't have to waste time with accounts/3rd party sites/html searching.
+I wanted an easy way to download videos from Streamable/Streamin, so I don't have to waste time with accounts/3rd party sites/html searching.
 Also, I wanted to create an extension since I had never done this before, and this seemed as good a reason as any.
 
 ## Installation
