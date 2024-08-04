@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Downloadable",
+  "description": "Simple Chrome extension for downloading videos from Streamable.",
+  "background": { "service_worker": "scripts/background.js" },
+  "permissions": [
+    "downloads",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/cloud_img.png",
+      "48": "images/cloud_img.png",
+      "128": "images/cloud_img.png"
+    }
+  },
+  "icons": {
+    "16": "images/cloud_img.png",
+    "48": "images/cloud_img.png",
+    "128": "images/cloud_img.png"
+  }
+}
